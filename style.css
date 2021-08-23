@@ -129,7 +129,7 @@ user agent stylesheet h1 {
   color: #7a7a7a;
   cursor: pointer;
 }
-.localisation__city {
+.localisation-city {
   margin-left: 13px;
   font-weight: 400;
 }
@@ -198,6 +198,7 @@ user agent stylesheet h1 {
   height: auto;
   width: auto;
   margin: 10px 20px;
+  padding: 0 20px;
   border-radius: 20px;
   position: relative;
   box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.16);
@@ -271,7 +272,7 @@ user agent stylesheet h1 {
 }
 .restaurant__carte-nouvelle p {
   color: #1b6150;
-  padding: 1.5rem 3rem;
+  padding: 0.5rem 1rem;
   margin: 0;
 }
 .restaurant__carte:hover {
