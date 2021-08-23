@@ -129,7 +129,7 @@ user agent stylesheet h1 {
   color: #7a7a7a;
   cursor: pointer;
 }
-.localisationcity {
+.location__city {
   margin-left: 13px;
   font-weight: 400;
 }
